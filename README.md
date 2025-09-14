@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a hybrid technical worker passionate about bui
 - VS Code  
 - GitHub Pages
 
-<img width="1024" height="1024" alt="JaLuJr United" src="https://github.com/user-attachments/assets/96a25d98-81be-47e2-9abc-57f2828394ed" />
+<img width="24" height="24" alt="JaLuJr United" src="https://github.com/user-attachments/assets/96a25d98-81be-47e2-9abc-57f2828394ed" />
 
 ## 📫 Let's Connect
 
