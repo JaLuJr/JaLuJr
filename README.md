@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a hybrid technical worker passionate about bui
 
 ## 🚀 What I'm Working On
 
-- 🌐 [My Live Portfolio Website](https://jalujr.github.io) — a showcase of my web development skills, hosted via GitHub Pages.
+- 🌐 [My Live Portfolio Website](https://jalujr.github.io/digital-chaos-order/content/!Welcome!) — a showcase of my web development skills, hosted via GitHub Pages.
 - 📁 Version-controlled projects using Git, GitHub Desktop, and VS Code.
 - 🛠️ Expanding my knowledge in HTML, CSS, JavaScript, and collaborative coding practices.
 
