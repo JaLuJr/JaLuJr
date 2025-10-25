@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Jarian
 
-Welcome to my GitHub profile! I'm a hybrid technical worker passionate about building clean, responsive websites and mastering modern development workflows.
+Welcome to my GitHub profile! I'm a remote college junior passionate about building clean, responsive websites and mastering modern development workflows that is helping me twords being a Project Manager.
 
-## 🚀 What I'm Working On
+## 🔭 What I'm Working On
 
 - 🌐 [My Live Portfolio Website](https://jalujr.github.io/digital-chaos-order/content/!Welcome!) — a showcase of my web development skills, hosted via GitHub Pages.
 - 📁 Version-controlled projects using Git, GitHub Desktop, and VS Code.
-- 🛠️ Expanding my knowledge in HTML, CSS, JavaScript, and collaborative coding practices.
+- 🛠️ Expanding my knowledge in HTML, CSS, Python, and collaborative coding practices.
 
 ## 🧰 Tools & Technologies
 
-- HTML • CSS • JavaScript  
+- HTML • CSS • Python  
 - Git & GitHub  
 - VS Code  
 - GitHub Pages
