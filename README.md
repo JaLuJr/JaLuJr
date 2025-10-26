@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a remote college junior passionate about build
 
 ## 🔭 What I'm Working On
 
-- 🌐 [My Live Portfolio Website](JaLuJr/Jarian-Course-Portfolio) — a showcase of my web development skills, hosted via GitHub Pages.
+- 🌐 [My Live Portfolio Website](https://github.com/JaLuJr/Jarian-Course-Portfolio) — a showcase of my web development skills, hosted via GitHub Pages.
 - 📁 Version-controlled projects using Git, GitHub Desktop, and VS Code.
 - 🛠️ Expanding my knowledge in HTML, CSS, Python, and collaborative coding practices.
 
